@@ -45,7 +45,7 @@ Slides to accompany the case presentation<br>
 
 **North Staffordshire Combined NHS Foundation Trust** Neuropsychology Peer Supervision group<br>
 
-8th November, 2023
+14th August, 2024
 
 ## Overview
 
@@ -57,9 +57,9 @@ Slides to accompany the case presentation<br>
 
 ::: columns
 ::: {.column width="50%"}
-#### You are all tasked with investigating:
+#### You are all tasked with:
 
--   Diagnosis
+-   Diagnosis / Impression / Formulation
 
 -   Recommendations
 :::
@@ -77,11 +77,7 @@ Slides to accompany the case presentation<br>
 
 ### Background Information
 
--   **Gender:** Male.
-
--   **Age:** 66.
-
--   **Ethnicity:** White.
+-   **Demographics:** 66 y/o White British Male.
 
 -   **Occupation:** Retired electrical engineer and trainer in telecommunications.
 
@@ -105,15 +101,14 @@ Slides to accompany the case presentation<br>
 
 ### Health History
 
--   **Health Events:** No significant past medical history. TIA in 2017.
--   **Health Conditions:** hypertension.
--   **Seizures:** (left frontotemporal seizures, secondary generalised seizures, night-time generalised seizures.
+-   **Health :** No significant past medical history. TIA in 2017. Hypertension.
+-   **Seizures:** left frontotemporal, secondary generalised seizures, night-time generalised.
 -   **Medication:** anti-convulsant (Phenytoin \> Levetiracetam \> Lamotrigine), anti-depressant (aggressive behaviour).
--   **Substance Usage:** Non-smoker; minimal alcohol intake
+-   **Substance Usage:** Non-smoker; minimal alcohol intake.
 -   **Mental Health:** No history of prior input from MH servives.
--   **Symptom Course:** Suspected to be worsening over time, however patient is still highly independent.
+-   **Symptom Course:** Family initially suspected worsening over time, patient denies problems.
 -   **Stability:** Memory concerns reportedly marked but with some days better than others.
--   **Brain scans:** Repeated MRI scans initially suggested brain atrophy in bifrontal and parietal areas; however FDG-PET brain scan was not in fitting with a neuro-degenerative condition
+-   **Brain scans:** Repeated MRI scans initially suggested mild brain atrophy in bifrontal and parietal areas; however FDG-PET brain scan was not in fitting with a neuro-degenerative condition.
 
 ## [**Discuss!**]{style="color:red"}
 
@@ -130,6 +125,17 @@ Slides to accompany the case presentation<br>
 ## [**Discuss!**]{style="color:red"}
 
 # Current Neuropsychological Assessment {background-color="#01364C"}
+
+## Long-term forgetting?
+
+What is it? How can it be assessed?
+
+- Memory tests with a long delay?
+- Practice effects?
+
+## Very Long Delay
+
+![](images/alf-test-scores-2.png)
 
 ## Practice Effects
 
