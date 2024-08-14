@@ -1,0 +1,143 @@
+---
+from: markdown+emoji
+format:
+  revealjs:
+    include-in-header: 
+      text: |
+        <meta name="github-repo" content="chris-gaskell/neuro-presentation 1/>
+        <meta name="twitter:title" content="Neuropsychology Peer Supervision: Dr Chris Gaskell"/>
+        <meta name="twitter:description" content="Slides to accompany the case presentation at the North Staffordshire Combined NHS Foundation Trust Neuropsychology Peer Supervision group on 14th August, 2024"/>
+        <meta name="twitter:url" content="https://neuro-presentation-2.netlify.app"/>
+        <meta name="twitter:creator" content="@chrisgaskell92/>
+        <meta name="twitter:site" content="@chrisgaskell92"/>
+    smaller: false
+    scrollable: true
+    incremental: false
+    theme: [simple, custom.scss]
+    preview-links: false
+    preload-iframes: false
+    chalkboard: true
+    author: "Dr. Chris Gaskell"
+    institute: "Neuropsychology <br> North Staffordshire Combined Healthcare NHS Foundation Trust"
+    footer: "**Neuro Supervision Group**: Dr. Chris Gaskell"
+    transition: slide
+    background-transition: fade
+    transition-speed: slow
+    footnotes-hover: true
+    filters: 
+      - designmode
+bibliography: references.bib
+---
+
+## Neuropsychology Peer Supervision: {background-color="#01364C" style="font-size: 35px; text-align: center;"}
+
+### Dr Chris Gaskell
+
+<br>
+
+Slides to accompany the case presentation<br>
+
+::: {style="text-align: center"}
+*for:*
+:::
+
+<br>
+
+**North Staffordshire Combined NHS Foundation Trust** Neuropsychology Peer Supervision group<br>
+
+8th November, 2023
+
+## Overview
+
+<br>
+
+#### Fact Finding Scaneraio!
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+#### You are all tasked with investigating:
+
+-   Diagnosis
+
+-   Recommendations
+:::
+
+::: {.column width="50%"}
+![Format guiltlessly stolen from the American neuropsychology podcast NevNeuro.](images/nav-neuro.jpeg)
+:::
+:::
+
+### 
+
+# Background Information {background-color="#01364C"}
+
+------------------------------------------------------------------------
+
+### Background Information
+
+-   **Gender:** Male.
+
+-   **Age:** 66.
+
+-   **Ethnicity:** White.
+
+-   **Occupation:** Retired electrical engineer and trainer in telecommunications.
+
+-   **Marital Status:** Married.
+
+-   **Handedness:** Right.
+
+-   **Referral:** From Neurology for neuropsychological assessment.
+
+-   **Initial Onset:** Seizures and memory concerns started in 2020.
+
+-   **Dominant Concern:** Difficulty for episodic / autobiographical memories.
+
+-   **Additional Concerns:** Aggression, progressive nature ?
+
+## [**Discuss!**]{style="color:red"}
+
+# Clinical Information {background-color="#01364C"}
+
+------------------------------------------------------------------------
+
+### Health History
+
+-   **Health Events:** No significant past medical history. TIA in 2017.
+-   **Health Conditions:** hypertension.
+-   **Seizures:** (left frontotemporal seizures, secondary generalised seizures, night-time generalised seizures.
+-   **Medication:** anti-convulsant (Phenytoin \> Levetiracetam \> Lamotrigine), anti-depressant (aggressive behaviour).
+-   **Substance Usage:** Non-smoker; minimal alcohol intake
+-   **Mental Health:** No history of prior input from MH servives.
+-   **Symptom Course:** Suspected to be worsening over time, however patient is still highly independent.
+-   **Stability:** Memory concerns reportedly marked but with some days better than others.
+-   **Brain scans:** Repeated MRI scans initially suggested brain atrophy in bifrontal and parietal areas; however FDG-PET brain scan was not in fitting with a neuro-degenerative condition
+
+## [**Discuss!**]{style="color:red"}
+
+# Historical Neuropsychological Assessments {background-color="#01364C"}
+
+## Test Scores
+
+![](images/alf-past-test-score-tab.png)
+
+# 
+
+![](images/alf-past-test-score.png)
+
+## [**Discuss!**]{style="color:red"}
+
+# Current Neuropsychological Assessment {background-color="#01364C"}
+
+## Practice Effects
+
+![](images/alf-test-scores-1.png)
+
+## Recommendations
+
+-   Cognitive Rehabilitation
+-   Strategies to aid consolidation.
+
+## **All Done**
